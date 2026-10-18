@@ -1,0 +1,1828 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d7" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d6" for="node" attr.name="how_to_avail" attr.type="string" />
+  <key id="d5" for="node" attr.name="eligibility_criteria" attr.type="string" />
+  <key id="d4" for="node" attr.name="description" attr.type="string" />
+  <key id="d3" for="node" attr.name="funding_pattern" attr.type="string" />
+  <key id="d2" for="node" attr.name="url" attr.type="string" />
+  <key id="d1" for="node" attr.name="name" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="Scheme::Training to Farmers">
+      <data key="d0">Scheme</data>
+      <data key="d1">Training to Farmers</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTU2Ng==</data>
+      <data key="d3">Rs.300 per farmer for 2 days.</data>
+      <data key="d4">All maize growing farmers are eligible to avail of the subsidy under this scheme
+in the Districts of Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal,
+Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli and Thoothukudi.
+Preference will be given to Small/Marginal farmers
+24% flow to SC/ST farmers will be ensured
+20% flow to women farmers/ women groups</data>
+      <data key="d5" />
+      <data key="d6">The application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Department::Agriculture - Farmers Welfare Department">
+      <data key="d0">Department</data>
+      <data key="d1">Agriculture - Farmers Welfare Department</data>
+    </node>
+    <node id="Beneficiary::Farmers">
+      <data key="d0">Beneficiary</data>
+      <data key="d1">Farmers</data>
+    </node>
+    <node id="BenefitType::Grants">
+      <data key="d0">BenefitType</data>
+      <data key="d1">Grants</data>
+    </node>
+    <node id="Sponsor::State">
+      <data key="d0">Sponsor</data>
+      <data key="d1">State</data>
+    </node>
+    <node id="ApplicationMethod::The application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">The application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Production of Foundation and Certified Seeds">
+      <data key="d0">Scheme</data>
+      <data key="d1">Production of Foundation and Certified Seeds</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=ODAz</data>
+      <data key="d3">Rs.1000 per quintal</data>
+      <data key="d4">Those farmers who produce and supply Foundation and Certified Class seeds to the Department are elligible to avail of the benefit</data>
+      <data key="d5" />
+      <data key="d6">Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="BenefitType::Subsidy">
+      <data key="d0">BenefitType</data>
+      <data key="d1">Subsidy</data>
+    </node>
+    <node id="ApplicationMethod::Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Distribution of Nuclear Poly Hedrosis Virus">
+      <data key="d0">Scheme</data>
+      <data key="d1">Distribution of Nuclear Poly Hedrosis Virus</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTI4MA==</data>
+      <data key="d3">50% cost of input limited to Rs.
+250/- ha.</data>
+      <data key="d4">All farmers who raise seed farms with Pulses crop are eligible to avail the subsidy subject to availability of
+funds.
+SC/ST 24%, Farm Women 20%</data>
+      <data key="d5" />
+      <data key="d6">The Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="ApplicationMethod::The Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">The Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Distribution of Rhizobium Packets - Oilseeds">
+      <data key="d0">Scheme</data>
+      <data key="d1">Distribution of Rhizobium Packets - Oilseeds</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTQ1MQ==</data>
+      <data key="d3">A subsidy of 50% on the cost or Rs.100/-per ha whichever is less</data>
+      <data key="d4">Those farmers who produce and supply Foundation and Certified Class seeds to the Department are elligible to avail of the benefit</data>
+      <data key="d5" />
+      <data key="d6">Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Livelihood activities for asset less persons-2012">
+      <data key="d0">Scheme</data>
+      <data key="d1">Livelihood activities for asset less persons-2012</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=NDQw</data>
+      <data key="d3" />
+      <data key="d4">Loan assistance to Income
+Generation activities and
+Revolving Fund to Self Help
+Groups
+Subsidy-600/ Ha</data>
+      <data key="d5" />
+      <data key="d6" />
+    </node>
+    <node id="Scheme::Infrastructure subsidy for Privately Developed Industrial Estates.">
+      <data key="d0">Scheme</data>
+      <data key="d1">Infrastructure subsidy for Privately Developed Industrial Estates.</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTY4</data>
+      <data key="d3">20% of the cost of approved infrastructure
+items</data>
+      <data key="d4">Outside a radius of
+30 kms from Chennai
+City Centre</data>
+      <data key="d5" />
+      <data key="d6">To apply to SIPCOT</data>
+    </node>
+    <node id="BenefitType::Incentives">
+      <data key="d0">BenefitType</data>
+      <data key="d1">Incentives</data>
+    </node>
+    <node id="ApplicationMethod::To apply to SIPCOT">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">To apply to SIPCOT</data>
+    </node>
+    <node id="Scheme::Production of Foundation Seeds">
+      <data key="d0">Scheme</data>
+      <data key="d1">Production of Foundation Seeds</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTQ1Mg==</data>
+      <data key="d3">Rs.1000/- per quintal
+SC/ST 24%, Farm Women 20%</data>
+      <data key="d4">All farmers who raise seed farms with Pulses crop are eligible to avail the subsidy subject to availability of funds.
+SC/ST 24%, Farm Women 20%</data>
+      <data key="d5" />
+      <data key="d6">The Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Distribution of Gypsum">
+      <data key="d0">Scheme</data>
+      <data key="d1">Distribution of Gypsum</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTQ5MQ==</data>
+      <data key="d3">50% on the cost of Material plus transport limited to Rs. 750/- per Ha.</data>
+      <data key="d4">All farmers who raise seed farms with Pulses crop are eligible to avail the subsidy subject to availability of
+funds.
+SC/ST 24%, Farm Women 20%</data>
+      <data key="d5" />
+      <data key="d6">The Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Distribution of manually operated Plant Protection Equipment">
+      <data key="d0">Scheme</data>
+      <data key="d1">Distribution of manually operated Plant Protection Equipment</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTQzNw==</data>
+      <data key="d3">A subsidy of 50% on the cost of equipment or Rs. 800/- whichever is less</data>
+      <data key="d4">All farmers who raise seed farms with Pulses crop are eligible to avail the subsidy subject to availability of
+funds.
+SC/ST 24%, Farm Women 20%</data>
+      <data key="d5" />
+      <data key="d6">The Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Pipes carrying water from source to field - Pulses ISPOM">
+      <data key="d0">Scheme</data>
+      <data key="d1">Pipes carrying water from source to field - Pulses ISPOM</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTMxNA==</data>
+      <data key="d3">Subsidy of 50% cost or Rs.15000 for water carrying pipes upto 800m and all
+types of pipes(PVC HDPE etc.,)
+and all size as per the requirement of the farmer.</data>
+      <data key="d4">All farmers are eligible limited to target
+24% flow to SC/ST farmers will be ensured
+20% flow to women farmers/ women groups</data>
+      <data key="d5" />
+      <data key="d6">The Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small &amp; Medium Manufacturing Sector.">
+      <data key="d0">Scheme</data>
+      <data key="d1">Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small &amp; Medium Manufacturing Sector.</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=Mjg=</data>
+      <data key="d3">50% of the project cost</data>
+      <data key="d4">Anywhere in the State</data>
+      <data key="d5" />
+      <data key="d6">Not applicable</data>
+    </node>
+    <node id="Beneficiary::Manufacturers">
+      <data key="d0">Beneficiary</data>
+      <data key="d1">Manufacturers</data>
+    </node>
+    <node id="ApplicationMethod::Not applicable">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">Not applicable</data>
+    </node>
+    <node id="Scheme::Distribution of Rhizobium">
+      <data key="d0">Scheme</data>
+      <data key="d1">Distribution of Rhizobium</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=OTE2</data>
+      <data key="d3">50% on the cost of Rhizobium or Rs.100/- per ha. whichever is less.</data>
+      <data key="d4">All farmers who raise seed farms with Pulses crop are eligible to avail the subsidy subject to availability of
+funds.
+SC/ST 24%, Farm Women 20%</data>
+      <data key="d5" />
+      <data key="d6">The Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Distribution of Soil  Health card">
+      <data key="d0">Scheme</data>
+      <data key="d1">Distribution of Soil  Health card</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTQzOA==</data>
+      <data key="d3" />
+      <data key="d4">Soil health card will be distributed to all the farmers who have offered the soil sample for testing by paying prescribed fee of Rs.5/- each for Macro and Micro nutrient testing</data>
+      <data key="d5" />
+      <data key="d6" />
+    </node>
+    <node id="Scheme::Rebate/ Reimbursement of Stamp duty &amp; Registration charges for Micro and Small Enterprises">
+      <data key="d0">Scheme</data>
+      <data key="d1">Rebate/ Reimbursement of Stamp duty &amp; Registration charges for Micro and Small Enterprises</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=Nw==</data>
+      <data key="d3">50% of stamp
+duty and
+registration
+charges</data>
+      <data key="d4">Industrial Estates
+developed by
+TANSIDCO or
+Govt.
+251 backward
+blocks as listed in
+Annexure I</data>
+      <data key="d5" />
+      <data key="d6">All new Micro and Small Enterprises</data>
+    </node>
+    <node id="ApplicationMethod::All new Micro and Small Enterprises">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">All new Micro and Small Enterprises</data>
+    </node>
+    <node id="Scheme::Training of Farmers on Pulses Production Technologies">
+      <data key="d0">Scheme</data>
+      <data key="d1">Training of Farmers on Pulses Production Technologies</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTA1OQ==</data>
+      <data key="d3">A provision of Rs.15000 per batch of 50 farmers</data>
+      <data key="d4">All farmers who raise seed farms with Pulses crop are eligible to avail the subsidy subject to availability of
+funds.
+SC/ST 24%, Farm Women 20%</data>
+      <data key="d5" />
+      <data key="d6">The Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Subsidy on the assessed Value Added Tax (VAT)">
+      <data key="d0">Scheme</data>
+      <data key="d1">Subsidy on the assessed Value Added Tax (VAT)</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=NQ==</data>
+      <data key="d3">Assessed Value Added Tax (VAT) for
+the first six years from the date of
+commencement of production</data>
+      <data key="d4">Anywhere in the state</data>
+      <data key="d5" />
+      <data key="d6">1. For issue of an Eligibility Certificate within one year from the date of commencement of production
+2. For submission of VAT claims VAT reimbursement claims should be submitted within one month after completion of each quarter.</data>
+    </node>
+    <node id="ApplicationMethod::1. For issue of an Eligibility Certificate within one year from the date of commencement of production&#10;2. For submission of VAT claims VAT reimbursement claims should be submitted within one month after completion of each quarter.">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">1. For issue of an Eligibility Certificate within one year from the date of commencement of production
+2. For submission of VAT claims VAT reimbursement claims should be submitted within one month after completion of each quarter.</data>
+    </node>
+    <node id="Scheme::Distribution of Certified seeds - Oil Seeds">
+      <data key="d0">Scheme</data>
+      <data key="d1">Distribution of Certified seeds - Oil Seeds</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=OTIw</data>
+      <data key="d3">50% of the cost of seed or Rs. 1200/-perquintal whichever is less</data>
+      <data key="d4">Those farmers who produce and supply Foundation and Certified Class seeds to the Department are elligible to avail of the benefit</data>
+      <data key="d5" />
+      <data key="d6">Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)">
+      <data key="d0">Scheme</data>
+      <data key="d1">Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTQxMg==</data>
+      <data key="d3">24% flow to SC/ST
+30% flow to Women farmer</data>
+      <data key="d4">i) Production of Foundation and Certified Seeds – Seeds produced and supplied to the Department are entitled for a subsidy of  1000 per quintal.
+ii) Distribution of Certified seeds – 50% of the cost of seed (maximum ` 1200/- per quintal)
+iii) Compact Block Demonstration of 5 Ha. each – 50% subsidy on the cost of inputs with maximum limit per Demonstration
+Groundnut - ` 4000/- Gingelly, - ` 1500/- Sunflower - ` 2500/-
+iv) Distribution of Rhizobium Packets – A subsidy of 50% on the cost (maximum ` 100/- per ha)
+v) Organizing Integrated Pest Management Demonstration of 10 ha each – A provision of ` 22680/- is made towards the cost of inputs to layout the demonstration and for Training.
+vi) Distribution of Gypsum – 50% of the cost of material plus transport charges
+(maximum ` 750/- per ha.)
+vii) Distribution of Plant Protection Equipment – a) For Manually operated sprayers 50%subsidy in the cost of equipment (maximum ` 800/-)
+b) For Power operated sprayers 50%subsidy in the cost of equipment (maximum ` 2000/-)
+viii) Training of Farmers on Oilseeds Production Technologies – A provision of ` 15000/- per batch of 50 farmers towards incidental charges
+ix) Distribution of Bio- Pesticides – 50% Subsidy (maximum ` 250/Ha.)
+x) Distribution of Weedicides – 50% Subsidy (maximum ` 500/Ha)
+xi) Pipes carrying water from source to field:
+A subsidy of 50% in the cost or maximum of ` 15,000 whichever is
+less for water carrying pipes upto 800 meter and all types of pipes
+(PVC/ HDPE etc.,) and all size as per the requirement of the farmer
+xii) Combined Nutrient Spray for groundnut. A subsidy of ` 200/- per ha for
+spraying of nutrient mixture of DAP,Ammonium Sulphate and Borax.</data>
+      <data key="d5" />
+      <data key="d6">Village Level
+Assistant Agricultural officer
+Block Level
+Assistant Seed Officer / Deputy Agricultural
+Officer / Agricultural
+Officer and Assistant
+Director of Agriculture
+District Level
+Joint Director of Agriculture</data>
+    </node>
+    <node id="ApplicationMethod::Village Level&#10;Assistant Agricultural officer&#10;Block Level&#10;Assistant Seed Officer / Deputy Agricultural&#10;Officer / Agricultural&#10;Officer and Assistant&#10;Director of Agriculture&#10;District Level&#10;Joint Director of Agriculture">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">Village Level
+Assistant Agricultural officer
+Block Level
+Assistant Seed Officer / Deputy Agricultural
+Officer / Agricultural
+Officer and Assistant
+Director of Agriculture
+District Level
+Joint Director of Agriculture</data>
+    </node>
+    <node id="Scheme::Quality Paddy seed Distribution">
+      <data key="d0">Scheme</data>
+      <data key="d1">Quality Paddy seed Distribution</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTQwMQ==</data>
+      <data key="d3">5 per kg of certified paddy seeds</data>
+      <data key="d4">A subsidy of  5 per kg of certified paddy seeds will be allowed in the sale price at the time of purchase in the Agricultural Extension Centers.</data>
+      <data key="d5" />
+      <data key="d6">Village Level
+Assistant Agricultural officer
+Block Level
+Assistant Seed Officer / Deputy Agricultural
+Officer / Agricultural
+Officer and Assistant
+Director of Agriculture
+District Level
+Joint Director of Agriculture</data>
+    </node>
+    <node id="Scheme::Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates">
+      <data key="d0">Scheme</data>
+      <data key="d1">Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTY3</data>
+      <data key="d3">Quantum of incentives 20% of the area</data>
+      <data key="d4">All new / expansion schemes of SIPCOT Industrial Estates</data>
+      <data key="d5" />
+      <data key="d6">To apply to SIPCOT</data>
+    </node>
+    <node id="Scheme::Organizing Block  Demonstration through  Department and also  through TNAU">
+      <data key="d0">Scheme</data>
+      <data key="d1">Organizing Block  Demonstration through  Department and also  through TNAU</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTE0Mw==</data>
+      <data key="d3">Rs.4000/-per demonstration of 1 ha.
+each</data>
+      <data key="d4">All maize growing farmers are eligible to avail of the subsidy under this scheme
+in the Districts of Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal,
+Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli and Thoothukudi.
+Preference will be given to Small/Marginal farmers
+24% flow to SC/ST farmers will be ensured
+20% flow to women farmers/ women groups</data>
+      <data key="d5" />
+      <data key="d6">The application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Generator subsidy">
+      <data key="d0">Scheme</data>
+      <data key="d1">Generator subsidy</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTU=</data>
+      <data key="d3">25% on the
+cost of the
+generator
+sets upto 125
+KVA capacity</data>
+      <data key="d4">Anywhere in the State</data>
+      <data key="d5" />
+      <data key="d6">Within six months from
+the date of purchase of
+the generator set or
+date of installation of
+the generator set,
+whichever is later.</data>
+    </node>
+    <node id="ApplicationMethod::Within six months from&#10;the date of purchase of&#10;the generator set or&#10;date of installation of&#10;the generator set,&#10;whichever is later.">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">Within six months from
+the date of purchase of
+the generator set or
+date of installation of
+the generator set,
+whichever is later.</data>
+    </node>
+    <node id="Scheme::Production of Certified Seeds">
+      <data key="d0">Scheme</data>
+      <data key="d1">Production of Certified Seeds</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTQyMQ==</data>
+      <data key="d3">A subsidy of Rs.1000/- per quintal</data>
+      <data key="d4">All farmers who raise seed farms with Pulses crop are eligible to avail the subsidy subject to availability of funds.
+SC/ST 24%, Farm Women 20%</data>
+      <data key="d5" />
+      <data key="d6">The Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Organizing Block demonstration on Polythene mulch Technology in Groundnut">
+      <data key="d0">Scheme</data>
+      <data key="d1">Organizing Block demonstration on Polythene mulch Technology in Groundnut</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTUwMg==</data>
+      <data key="d3">an assistance of Rs.4000/- towards the cost of inputs to organize the
+demonstration and Rs.4000/- to cover the land with Polythene sheet per
+ha will be provided.</data>
+      <data key="d4">Those farmers who produce and supply Foundation and Certified Class seeds to the Department are elligible to avail of the benefit</data>
+      <data key="d5" />
+      <data key="d6">Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Special capital subsidy for thrust sector enterprises">
+      <data key="d0">Scheme</data>
+      <data key="d1">Special capital subsidy for thrust sector enterprises</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTQ=</data>
+      <data key="d3">15% of Plant and Machinery value</data>
+      <data key="d4">For 13 identified thrust sectors viz:-
+1.Electrical and Electronics Industry
+2. Leather and Leather goods.
+3.Auto parts and components
+4.Drugs and Pharmaceuticals
+5. Solar Energy Equipment
+6.Gold and Diamond Jewellery for exports
+7. Pollution Control Equipments.
+8. Sports Goods and Accessories.
+9. Cost effective building material.
+10. Readymade Garments.
+11. Food Processing.
+12. Plastic.
+13. Rubber.
+14. Any other industries to be notified by the Government from time to time.</data>
+      <data key="d5" />
+      <data key="d6">Within one year from the Date of commencement of Production</data>
+    </node>
+    <node id="ApplicationMethod::Within one year from the Date of commencement of Production">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">Within one year from the Date of commencement of Production</data>
+    </node>
+    <node id="Scheme::Distribution of Minikits  at free of cost">
+      <data key="d0">Scheme</data>
+      <data key="d1">Distribution of Minikits  at free of cost</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=ODIy</data>
+      <data key="d3">100%</data>
+      <data key="d4">All maize growing farmers are eligible to avail of the subsidy under this scheme
+in the Districts of Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal,
+Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli and Thoothukudi.
+Preference will be given to Small/Marginal farmers
+24% flow to SC/ST farmers will be ensured
+20% flow to women farmers/ women groups</data>
+      <data key="d5" />
+      <data key="d6">The application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates">
+      <data key="d0">Scheme</data>
+      <data key="d1">Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=Mg==</data>
+      <data key="d3">50% rebate on stamp duty and registration charges.</data>
+      <data key="d4">Outside a radius of 30 kms from Chennai City Centre</data>
+      <data key="d5" />
+      <data key="d6">To apply to SIPCOT</data>
+    </node>
+    <node id="Scheme::Unemployed Youth Employment Generation Programme (UYEGP)">
+      <data key="d0">Scheme</data>
+      <data key="d1">Unemployed Youth Employment Generation Programme (UYEGP)</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MzM=</data>
+      <data key="d3">15% of Project Cost</data>
+      <data key="d4">Anywhere in Tamil Nadu</data>
+      <data key="d5" />
+      <data key="d6">Embedded in UYEGP Scheme itself</data>
+    </node>
+    <node id="ApplicationMethod::Embedded in UYEGP Scheme itself">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">Embedded in UYEGP Scheme itself</data>
+    </node>
+    <node id="Scheme::Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton">
+      <data key="d0">Scheme</data>
+      <data key="d1">Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTM5OQ==</data>
+      <data key="d3">Premium ranges from Re.1 /- to Rs. 3 /- per Kg of seeds
+Premium for the production of Foundation class @ 7.5% to 30% over and above Local Market Rate and Certified class @ 5% to 20% over and above Local Market Rate per Kg of seed based on the oil seed</data>
+      <data key="d4">All farmers who produce and supply the seeds to the Department of Agriculture on Contract basis are eligible to
+enroll and register their seed farms under this programme.
+Separate allocation will be provided to SC/ST seed growers.
+Preference will be given to farm All farmers who produce and
+supply the seeds to the Department of Agriculture on Contract basis are eligible to enroll and register their seed farms under this programme.
+Separate allocation will be provided to SC/ST seed growers.
+Preference will be given to farm women groups, Farmers
+Interest Groups.
+The farmer so desirous of enrolling himself / herself will
+be given a training by the authorities concerned at the
+beginning of each year
+The required source seed will be supplied by the Department
+of Agriculture through the Agricultural Extension Centres
+on payment of the Cost of the seed as per the sale price fixed
+by the Department.
+The seeds supplied will have the Certification Tag issued by
+the Department of Seed Certification
+The farmers should follow the guidelines given by the field level
+functionaries / Seed Certification officers to maintain the Quality.
+The seed Farms should be registered by the Seed Producer viz., the Assistant Director of Agriculture of the respective Blocks on payment of the requisite fees
+On satisfactorily fulfillment of the field standard during the entire period of the crop, the produce will be declared fit at the field level. This produce is called the Field Run Produce
+This produce has to satisfy the standards of physical/ genetic purity, moisture levels and germination percentage as prescribed in the Certification standards
+The produce after inspection by the Seed Certification Officer and with due permission will be moved to the nearest Seed Processing Unit owned by the Department of Agriculture
+The farmer should bear the transport cost for the transport of the seed to the Seed Processing Unit.
+After moving the seed to the Seed Processing Unit, initially the farmer will be paid 90% of the Minimum Support Price as declared by the Civil Supplies Department The seeds will be processed in the Seed Processing Unit in the presence of the Seed Certification Officer.
+On completion of the processing, sample will be drawn by the Seed Certification Officer to test the quality.
+This sample will be sent to the concerned Seed Testing Lab for
+testing. The test results will be declared on completion of the testing at the Seed Testing Labs
+If the seed lot fails to confirm the standards, the farmer has to
+repay the entire advance paid to him / her in one installment
+before getting back the stock.
+On declaration of the results by the authorities as standard the
+produce will be considered as Seed material
+Now the farmer is entitled for full payment of the cost for seeds as per the Procurement price fixed for each crop and its class. The farmer will be paid the difference of cost between the full cost eligible and the amount of advance paid as 90%.</data>
+      <data key="d5" />
+      <data key="d6">The application is to be submitted to
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="ApplicationMethod::The application is to be submitted to&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">The application is to be submitted to
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Price Preference for Micro and Small Enterprises in Government purchases">
+      <data key="d0">Scheme</data>
+      <data key="d1">Price Preference for Micro and Small Enterprises in Government purchases</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MjE=</data>
+      <data key="d3">Upto 15% as
+provided in
+the Tamil
+Nadu
+Transparency
+in Tenders
+Act 1998.</data>
+      <data key="d4">Anywhere in the State</data>
+      <data key="d5" />
+      <data key="d6">On participation in the Tender</data>
+    </node>
+    <node id="ApplicationMethod::On participation in the Tender">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">On participation in the Tender</data>
+    </node>
+    <node id="Scheme::Farmers Training">
+      <data key="d0">Scheme</data>
+      <data key="d1">Farmers Training</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTA0NA==</data>
+      <data key="d3">Rs.5000/-</data>
+      <data key="d4">50 farmers / Agricultural labourers will be trained in a cluster with the financial assistance of Rs.5000/- per training.</data>
+      <data key="d5" />
+      <data key="d6">The application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Farm Production System and micro enterprises - Sponsored By State Govt">
+      <data key="d0">Scheme</data>
+      <data key="d1">Farm Production System and micro enterprises - Sponsored By State Govt</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTE3</data>
+      <data key="d3">Subsidy :1560/-</data>
+      <data key="d4">Demonstration for popularizing new crops/ varieties, and new
+technologies in Agriculture and allied sectors. Diversification of
+production systems like Dryland Horticulture, Agro Forestry,
+Household production system,Adoption of proven technology,
+activities like INM, IPM, Fodder development, Organic farming,
+Multiple cropping, Improved inter cropping seed village concept,
+Fisheries development in village ponds, farm ponds and tanks,
+Sericulture, back yard poultry,Livestock management and other
+micro enterprises etc. are carried out under this component.</data>
+      <data key="d5" />
+      <data key="d6">1)Chairman / District Collector,
+2)Project Officer /Joint Director of Agriculture ,
+DWDA, (PIA) at District level.
+1)Chief Executive Officer,
+State Level Nodal Agency,
+Chennai-32 (at State level)</data>
+    </node>
+    <node id="ApplicationMethod::1)Chairman / District Collector,&#10;2)Project Officer /Joint Director of Agriculture ,&#10;DWDA, (PIA) at District level.&#10;1)Chief Executive Officer,&#10;State Level Nodal Agency,&#10;Chennai-32 (at State level)">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">1)Chairman / District Collector,
+2)Project Officer /Joint Director of Agriculture ,
+DWDA, (PIA) at District level.
+1)Chief Executive Officer,
+State Level Nodal Agency,
+Chennai-32 (at State level)</data>
+    </node>
+    <node id="Scheme::Waiver of Earnest Money Deposit for participation in Tenders">
+      <data key="d0">Scheme</data>
+      <data key="d1">Waiver of Earnest Money Deposit for participation in Tenders</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MjQ=</data>
+      <data key="d3">On items
+notified by
+the
+Government
+from time to
+time</data>
+      <data key="d4">Anywhere in the State</data>
+      <data key="d5" />
+      <data key="d6">On participation in the Tender</data>
+    </node>
+    <node id="Scheme::Distribution of Certified  Seeds of maize">
+      <data key="d0">Scheme</data>
+      <data key="d1">Distribution of Certified  Seeds of maize</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTQyMw==</data>
+      <data key="d3">50% of the cost of the seed subject to a maximum of Rs.1200/-per Quintal whichever is less</data>
+      <data key="d4">All maize growing farmers are eligible to avail of the subsidy under this scheme
+in the Districts of Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal,
+Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli and Thoothukudi.
+Preference will be given to Small/Marginal farmers
+24% flow to SC/ST farmers will be ensured
+20% flow to women farmers/ women groups</data>
+      <data key="d5" />
+      <data key="d6">The application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Subsidy on the cost of Patent Registration in India or abroad">
+      <data key="d0">Scheme</data>
+      <data key="d1">Subsidy on the cost of Patent Registration in India or abroad</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MjU=</data>
+      <data key="d3">50% on the cost of filing Patent Registration application</data>
+      <data key="d4">Anywhere in the State</data>
+      <data key="d5" />
+      <data key="d6">Within 6 months from the date of receipt of Patent Registration</data>
+    </node>
+    <node id="ApplicationMethod::Within 6 months from the date of receipt of Patent Registration">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">Within 6 months from the date of receipt of Patent Registration</data>
+    </node>
+    <node id="Scheme::Organizing Block Demonstration">
+      <data key="d0">Scheme</data>
+      <data key="d1">Organizing Block Demonstration</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTIyOA==</data>
+      <data key="d3">A subsidy of 50% on the cost of inputs required to layout the demonstration
+of 5 ha each or Rs.2000/- whichever is less</data>
+      <data key="d4">All farmers who raise seed farms with Pulses crop are eligible to avail the subsidy subject to availability of funds
+SC/ST 24%,  Farm Women 20%</data>
+      <data key="d5" />
+      <data key="d6">The Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Reservation for Micro Enterprises in TANSIDCO Industrial Estates">
+      <data key="d0">Scheme</data>
+      <data key="d1">Reservation for Micro Enterprises in TANSIDCO Industrial Estates</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTY2</data>
+      <data key="d3">Quantum of incentives-30% of the area</data>
+      <data key="d4">All TANSIDCO Industrial Estates</data>
+      <data key="d5" />
+      <data key="d6">To apply to SIDCO</data>
+    </node>
+    <node id="ApplicationMethod::To apply to SIDCO">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">To apply to SIDCO</data>
+    </node>
+    <node id="Scheme::Reimbursement of hall rent for conducting exhibition by MSME Association">
+      <data key="d0">Scheme</data>
+      <data key="d1">Reimbursement of hall rent for conducting exhibition by MSME Association</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MjY=</data>
+      <data key="d3">50% on hall rent</data>
+      <data key="d4">Anywhere in the State</data>
+      <data key="d5" />
+      <data key="d6">Not applicable</data>
+    </node>
+    <node id="Scheme::Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)">
+      <data key="d0">Scheme</data>
+      <data key="d1">Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTc=</data>
+      <data key="d3">3% of the interest on term loan.</data>
+      <data key="d4">Anywhere in the State</data>
+      <data key="d5" />
+      <data key="d6">On quarterly basis through the respective financial institutions.</data>
+    </node>
+    <node id="ApplicationMethod::On quarterly basis through the respective financial institutions.">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">On quarterly basis through the respective financial institutions.</data>
+    </node>
+    <node id="Scheme::Low Tension power tariff subsidy">
+      <data key="d0">Scheme</data>
+      <data key="d1">Low Tension power tariff subsidy</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTM=</data>
+      <data key="d3">20% on power consumption charges for
+36 months from Date of Commence
+-ment of Production or date of power
+connection whichever is later.</data>
+      <data key="d4">251 industrially backward
+blocks as listed in
+Annexure I and
+Industrial Estates
+promoted by the
+Government and
+Agencies like SIPCOT,
+TANSIDCO (excluding
+industrial estates located
+within the radius of 50
+kms from Chennai City
+Centre)
+All 385 blocks in the
+State for Agro based
+enterprises</data>
+      <data key="d5" />
+      <data key="d6">1.For issue of
+Eligibility Certificate
+(EC)
+Within three months
+from the date of
+commencement of
+production or date of
+power connection,
+whichever is later.
+2. For submission of
+subsidy claims
+The first claim should
+be preferred within 30
+days from the date of
+issue of EC.
+Subsequent claims
+should be submitted
+once in six months i.e.
+the bills raised by
+TNEB from January to
+June should be
+preferred before August
+31st of the year and
+from July to December
+before 28th of February
+of the succeeding year</data>
+    </node>
+    <node id="ApplicationMethod::1.For issue of&#10;Eligibility Certificate&#10;(EC)&#10;Within three months&#10;from the date of&#10;commencement of&#10;production or date of&#10;power connection,&#10;whichever is later.&#10;2. For submission of&#10;subsidy claims&#10;The first claim should&#10;be preferred within 30&#10;days from the date of&#10;issue of EC.&#10;Subsequent claims&#10;should be submitted&#10;once in six months i.e.&#10;the bills raised by&#10;TNEB from January to&#10;June should be&#10;preferred before August&#10;31st of the year and&#10;from July to December&#10;before 28th of February&#10;of the succeeding year">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">1.For issue of
+Eligibility Certificate
+(EC)
+Within three months
+from the date of
+commencement of
+production or date of
+power connection,
+whichever is later.
+2. For submission of
+subsidy claims
+The first claim should
+be preferred within 30
+days from the date of
+issue of EC.
+Subsequent claims
+should be submitted
+once in six months i.e.
+the bills raised by
+TNEB from January to
+June should be
+preferred before August
+31st of the year and
+from July to December
+before 28th of February
+of the succeeding year</data>
+    </node>
+    <node id="Scheme::Subsidy on the cost of Trade Mark Registration in India or abroad">
+      <data key="d0">Scheme</data>
+      <data key="d1">Subsidy on the cost of Trade Mark Registration in India or abroad</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=Mjc=</data>
+      <data key="d3">50% on the cost of filing Trade Mark Registration application</data>
+      <data key="d4">Anywhere in the State</data>
+      <data key="d5" />
+      <data key="d6">Within 6 months from the date of receipt of Trade Mark registration</data>
+    </node>
+    <node id="ApplicationMethod::Within 6 months from the date of receipt of Trade Mark registration">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">Within 6 months from the date of receipt of Trade Mark registration</data>
+    </node>
+    <node id="Scheme::Farmers Interest Group  (FIG)">
+      <data key="d0">Scheme</data>
+      <data key="d1">Farmers Interest Group  (FIG)</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTA5Mw==</data>
+      <data key="d3">Rs. 400 /- to Rs. 20,000/-</data>
+      <data key="d4">15 farmers per group) for Agricultural crops.
+An assistance of Rs.5000 per group towards purchase of office equipments, purchase of technical bulletins and setting up of Library - Training and acquisition of skills by farmer Members @
+Rs.4000/- per group,issue of ID cards @ Rs.400/- per group and for district level meeting @Rs.20,000/- per meeting</data>
+      <data key="d5" />
+      <data key="d6">The application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Pipes carrying water  from source to field">
+      <data key="d0">Scheme</data>
+      <data key="d1">Pipes carrying water  from source to field</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTU2OQ==</data>
+      <data key="d3">subsidy on 50% cost or Rs.15000 for water carrying pipes upto 800m and all
+types of pipes(PVC HDPE etc.,) and all size as per the requirement of the farmer.</data>
+      <data key="d4">All farmers are eligible limited to target
+24% flow to SC/ST farmers will be ensured
+20% flow to women farmers/ women groups</data>
+      <data key="d5" />
+      <data key="d6">The application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Term loan obtained for Technology upgradation / modernisation schemes">
+      <data key="d0">Scheme</data>
+      <data key="d1">Term loan obtained for Technology upgradation / modernisation schemes</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTY=</data>
+      <data key="d3">3% of the interest on term loan.</data>
+      <data key="d4">Anywhere in the State</data>
+      <data key="d5" />
+      <data key="d6">On quarterly basis through the respective financial institutions.</data>
+    </node>
+    <node id="Scheme::Livelihood activities for asset less persons - Sponsored By State Govt">
+      <data key="d0">Scheme</data>
+      <data key="d1">Livelihood activities for asset less persons - Sponsored By State Govt</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTE4</data>
+      <data key="d3">Subsidy :1200/-</data>
+      <data key="d4">Loan assistance to Income Generation activities and
+Revolving Fund to Self Help Groups.</data>
+      <data key="d5" />
+      <data key="d6">1)Chairman / District Collector,
+2)Project Officer /Joint Director of Agriculture ,
+DWDA, (PIA) at District level.
+1)Chief Executive Officer,
+State Level Nodal Agency,
+Chennai-32 (at State level)</data>
+    </node>
+    <node id="Scheme::Skill Development Training Schemes and Skill Upgradation Training Schemes">
+      <data key="d0">Scheme</data>
+      <data key="d1">Skill Development Training Schemes and Skill Upgradation Training Schemes</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MzE=</data>
+      <data key="d3">Reimburseme nt upto 50% of the tuition fees</data>
+      <data key="d4">Skill Development training Schemes for the benefit of educated unemployed youth and Skill Upgradation training  Schemes for upgrading skills of existing employees of Micro, Small and Medium Manufacturing Enterprises.
+Anywhere in the State</data>
+      <data key="d5" />
+      <data key="d6">Not applicable.</data>
+    </node>
+    <node id="ApplicationMethod::Not applicable.">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">Not applicable.</data>
+    </node>
+    <node id="Scheme::Micro Nutrient spray">
+      <data key="d0">Scheme</data>
+      <data key="d1">Micro Nutrient spray</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTI1NA==</data>
+      <data key="d3">A subsidy of 50% or Rs.70/- per ha whichever is less.</data>
+      <data key="d4">All farmers are eligible limited to target
+24% flow to SC/ST farmers will be ensured
+20% flow to women farmers/ women groups</data>
+      <data key="d5" />
+      <data key="d6">The Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Term loan obtained under Credit Guarantee Fund Trust Scheme">
+      <data key="d0">Scheme</data>
+      <data key="d1">Term loan obtained under Credit Guarantee Fund Trust Scheme</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTk=</data>
+      <data key="d3">3% of the interest on term loan.</data>
+      <data key="d4">Anywhere in the State</data>
+      <data key="d5" />
+      <data key="d6">On quarterly basis through the respective financial institutions.</data>
+    </node>
+    <node id="Scheme::Visit of Contract Farming  farmers to the Research  Stations in Karnataka">
+      <data key="d0">Scheme</data>
+      <data key="d1">Visit of Contract Farming  farmers to the Research  Stations in Karnataka</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=ODk5</data>
+      <data key="d3">Rs.1,12,500 per batch of 50 farmers for 3 days.</data>
+      <data key="d4">All farmers are eligible limited to target
+24% flow to SC/ST farmers will be ensured
+20% flow to women farmers/ women groups</data>
+      <data key="d5" />
+      <data key="d6">The application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Term loan obtained for ISO Certification/R&amp;D under NSICTANSIDCO Consortium">
+      <data key="d0">Scheme</data>
+      <data key="d1">Term loan obtained for ISO Certification/R&amp;D under NSICTANSIDCO Consortium</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTg=</data>
+      <data key="d3">3% of the interest on term loan.</data>
+      <data key="d4">Anywhere in the State</data>
+      <data key="d5" />
+      <data key="d6">On quarterly basis through the respective financial institutions.</data>
+    </node>
+    <node id="Scheme::Integrated Pest  Management Demonstration  cum Training">
+      <data key="d0">Scheme</data>
+      <data key="d1">Integrated Pest  Management Demonstration  cum Training</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTQ2MQ==</data>
+      <data key="d3">Rs.17000/- for 30 Farmers</data>
+      <data key="d4">A lumpsum provision of Rs.17,000 is allowed towards Demonstration of 40 Ha. each and Training per Farmers Field School through cluster approach.</data>
+      <data key="d5" />
+      <data key="d6">The application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Stamp duty exemption on mortgaged and pledged documents">
+      <data key="d0">Scheme</data>
+      <data key="d1">Stamp duty exemption on mortgaged and pledged documents</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=OA==</data>
+      <data key="d3">Quantum of incentives-100%</data>
+      <data key="d4">Any where in the state</data>
+      <data key="d5" />
+      <data key="d6">1.For issue of Eligibility Certificate (EC)
+Within three months from the date of commencement of production or date of power connection,whichever is later.
+2. For submission of subsidy claims
+The first claim should be preferred within 30 days from the date of issue of EC.Subsequent claims should be submitted
+once in six months i.e. the bills raised by Tamil Nadu Generation and Distribution Corporation Limited from January to June should be preferred before August 31st of the year and from July to December  before 28th of February of the succeeding year.</data>
+    </node>
+    <node id="ApplicationMethod::1.For issue of Eligibility Certificate (EC)&#10;Within three months from the date of commencement of production or date of power connection,whichever is later.&#10;2. For submission of subsidy claims&#10;The first claim should be preferred within 30 days from the date of issue of EC.Subsequent claims should be submitted&#10;once in six months i.e. the bills raised by Tamil Nadu Generation and Distribution Corporation Limited from January to June should be preferred before August 31st of the year and from July to December  before 28th of February of the succeeding year.">
+      <data key="d0">ApplicationMethod</data>
+      <data key="d1">1.For issue of Eligibility Certificate (EC)
+Within three months from the date of commencement of production or date of power connection,whichever is later.
+2. For submission of subsidy claims
+The first claim should be preferred within 30 days from the date of issue of EC.Subsequent claims should be submitted
+once in six months i.e. the bills raised by Tamil Nadu Generation and Distribution Corporation Limited from January to June should be preferred before August 31st of the year and from July to December  before 28th of February of the succeeding year.</data>
+    </node>
+    <node id="Scheme::Distribution of Gypsum - Oil Seeds">
+      <data key="d0">Scheme</data>
+      <data key="d1">Distribution of Gypsum - Oil Seeds</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=MTU0NA==</data>
+      <data key="d3">50% of the cost of material plus transport limited to Rs. 750/- per ha whichever is less.</data>
+      <data key="d4">Those farmers who produce and supply Foundation and Certified Class seeds to the Department are elligible to avail of the benefit</data>
+      <data key="d5" />
+      <data key="d6">Application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <node id="Scheme::Production of Certified  Seeds of Maize">
+      <data key="d0">Scheme</data>
+      <data key="d1">Production of Certified  Seeds of Maize</data>
+      <data key="d2">https://www.tn.gov.in/scheme_details.php?id=OTAw</data>
+      <data key="d3">Rs.1000/- per Quintal</data>
+      <data key="d4">All maize growing farmers are eligible to avail of the subsidy under this scheme
+in the Districts of Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal,
+Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli and Thoothukudi.
+Preference will be given to Small/Marginal farmers
+24% flow to SC/ST farmers will be ensured
+20% flow to women farmers/ women groups</data>
+      <data key="d5" />
+      <data key="d6">The application is to be submitted to:
+Assistant Agricultural officer at the Village Level
+Agricultural Officer / Deputy Agricultural Officer at the Block Level
+The Assistant Director of Agriculture at the Block Level
+The Joint Director of Agriculture at the District Level</data>
+    </node>
+    <edge source="Scheme::Training to Farmers" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Training to Farmers" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Training to Farmers" target="BenefitType::Grants" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Training to Farmers" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Training to Farmers" target="ApplicationMethod::The application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Production of Foundation and Certified Seeds" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Production of Foundation and Certified Seeds" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Production of Foundation and Certified Seeds" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Production of Foundation and Certified Seeds" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Production of Foundation and Certified Seeds" target="ApplicationMethod::Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Distribution of Nuclear Poly Hedrosis Virus" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Nuclear Poly Hedrosis Virus" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Distribution of Nuclear Poly Hedrosis Virus" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Distribution of Nuclear Poly Hedrosis Virus" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Nuclear Poly Hedrosis Virus" target="ApplicationMethod::The Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Distribution of Rhizobium Packets - Oilseeds" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Rhizobium Packets - Oilseeds" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Distribution of Rhizobium Packets - Oilseeds" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Distribution of Rhizobium Packets - Oilseeds" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Rhizobium Packets - Oilseeds" target="ApplicationMethod::Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Livelihood activities for asset less persons-2012" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Livelihood activities for asset less persons-2012" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Livelihood activities for asset less persons-2012" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Livelihood activities for asset less persons-2012" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Infrastructure subsidy for Privately Developed Industrial Estates." target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Infrastructure subsidy for Privately Developed Industrial Estates." target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Infrastructure subsidy for Privately Developed Industrial Estates." target="BenefitType::Incentives" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Infrastructure subsidy for Privately Developed Industrial Estates." target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Infrastructure subsidy for Privately Developed Industrial Estates." target="ApplicationMethod::To apply to SIPCOT" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Production of Foundation Seeds" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Production of Foundation Seeds" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Production of Foundation Seeds" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Production of Foundation Seeds" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Production of Foundation Seeds" target="ApplicationMethod::The Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Distribution of Gypsum" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Gypsum" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Distribution of Gypsum" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Distribution of Gypsum" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Gypsum" target="ApplicationMethod::The Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Distribution of manually operated Plant Protection Equipment" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of manually operated Plant Protection Equipment" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Distribution of manually operated Plant Protection Equipment" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Distribution of manually operated Plant Protection Equipment" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of manually operated Plant Protection Equipment" target="ApplicationMethod::The Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Pipes carrying water from source to field - Pulses ISPOM" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Pipes carrying water from source to field - Pulses ISPOM" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Pipes carrying water from source to field - Pulses ISPOM" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Pipes carrying water from source to field - Pulses ISPOM" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Pipes carrying water from source to field - Pulses ISPOM" target="ApplicationMethod::The Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small &amp; Medium Manufacturing Sector." target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small &amp; Medium Manufacturing Sector." target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small &amp; Medium Manufacturing Sector." target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small &amp; Medium Manufacturing Sector." target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Technology Development Fund for evolving cleaner and / or energy efficient or IT enabled technologies for Micro, Small &amp; Medium Manufacturing Sector." target="ApplicationMethod::Not applicable" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Distribution of Rhizobium" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Rhizobium" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Distribution of Rhizobium" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Distribution of Rhizobium" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Rhizobium" target="ApplicationMethod::The Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Distribution of Soil  Health card" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Soil  Health card" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Distribution of Soil  Health card" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Distribution of Soil  Health card" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Rebate/ Reimbursement of Stamp duty &amp; Registration charges for Micro and Small Enterprises" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Rebate/ Reimbursement of Stamp duty &amp; Registration charges for Micro and Small Enterprises" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Rebate/ Reimbursement of Stamp duty &amp; Registration charges for Micro and Small Enterprises" target="BenefitType::Incentives" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Rebate/ Reimbursement of Stamp duty &amp; Registration charges for Micro and Small Enterprises" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Rebate/ Reimbursement of Stamp duty &amp; Registration charges for Micro and Small Enterprises" target="ApplicationMethod::All new Micro and Small Enterprises" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Training of Farmers on Pulses Production Technologies" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Training of Farmers on Pulses Production Technologies" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Training of Farmers on Pulses Production Technologies" target="BenefitType::Grants" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Training of Farmers on Pulses Production Technologies" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Training of Farmers on Pulses Production Technologies" target="ApplicationMethod::The Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the assessed Value Added Tax (VAT)" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the assessed Value Added Tax (VAT)" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the assessed Value Added Tax (VAT)" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the assessed Value Added Tax (VAT)" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the assessed Value Added Tax (VAT)" target="ApplicationMethod::1. For issue of an Eligibility Certificate within one year from the date of commencement of production&#10;2. For submission of VAT claims VAT reimbursement claims should be submitted within one month after completion of each quarter." id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Distribution of Certified seeds - Oil Seeds" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Certified seeds - Oil Seeds" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Distribution of Certified seeds - Oil Seeds" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Distribution of Certified seeds - Oil Seeds" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Certified seeds - Oil Seeds" target="ApplicationMethod::Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)" target="BenefitType::Incentives" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Under Integrated Scheme for Oilseeds, Oilpalm and Maize (ISOPOM)" target="ApplicationMethod::Village Level&#10;Assistant Agricultural officer&#10;Block Level&#10;Assistant Seed Officer / Deputy Agricultural&#10;Officer / Agricultural&#10;Officer and Assistant&#10;Director of Agriculture&#10;District Level&#10;Joint Director of Agriculture" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Quality Paddy seed Distribution" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Quality Paddy seed Distribution" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Quality Paddy seed Distribution" target="BenefitType::Incentives" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Quality Paddy seed Distribution" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Quality Paddy seed Distribution" target="ApplicationMethod::Village Level&#10;Assistant Agricultural officer&#10;Block Level&#10;Assistant Seed Officer / Deputy Agricultural&#10;Officer / Agricultural&#10;Officer and Assistant&#10;Director of Agriculture&#10;District Level&#10;Joint Director of Agriculture" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates" target="BenefitType::Incentives" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Reservation for Micro , Small and Medium Enterprises in SIPCOT Industrial Estates" target="ApplicationMethod::To apply to SIPCOT" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Organizing Block  Demonstration through  Department and also  through TNAU" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Organizing Block  Demonstration through  Department and also  through TNAU" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Organizing Block  Demonstration through  Department and also  through TNAU" target="BenefitType::Grants" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Organizing Block  Demonstration through  Department and also  through TNAU" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Organizing Block  Demonstration through  Department and also  through TNAU" target="ApplicationMethod::The application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Generator subsidy" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Generator subsidy" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Generator subsidy" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Generator subsidy" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Generator subsidy" target="ApplicationMethod::Within six months from&#10;the date of purchase of&#10;the generator set or&#10;date of installation of&#10;the generator set,&#10;whichever is later." id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Production of Certified Seeds" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Production of Certified Seeds" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Production of Certified Seeds" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Production of Certified Seeds" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Production of Certified Seeds" target="ApplicationMethod::The Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Organizing Block demonstration on Polythene mulch Technology in Groundnut" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Organizing Block demonstration on Polythene mulch Technology in Groundnut" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Organizing Block demonstration on Polythene mulch Technology in Groundnut" target="BenefitType::Grants" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Organizing Block demonstration on Polythene mulch Technology in Groundnut" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Organizing Block demonstration on Polythene mulch Technology in Groundnut" target="ApplicationMethod::Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Special capital subsidy for thrust sector enterprises" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Special capital subsidy for thrust sector enterprises" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Special capital subsidy for thrust sector enterprises" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Special capital subsidy for thrust sector enterprises" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Special capital subsidy for thrust sector enterprises" target="ApplicationMethod::Within one year from the Date of commencement of Production" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Distribution of Minikits  at free of cost" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Minikits  at free of cost" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Distribution of Minikits  at free of cost" target="BenefitType::Grants" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Distribution of Minikits  at free of cost" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Minikits  at free of cost" target="ApplicationMethod::The application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates" target="BenefitType::Incentives" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Rebate on Stamp duty and registration charges for Privately Developed Industrial Estates" target="ApplicationMethod::To apply to SIPCOT" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Unemployed Youth Employment Generation Programme (UYEGP)" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Unemployed Youth Employment Generation Programme (UYEGP)" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Unemployed Youth Employment Generation Programme (UYEGP)" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Unemployed Youth Employment Generation Programme (UYEGP)" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Unemployed Youth Employment Generation Programme (UYEGP)" target="ApplicationMethod::Embedded in UYEGP Scheme itself" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton" target="ApplicationMethod::The application is to be submitted to&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Price Preference for Micro and Small Enterprises in Government purchases" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Price Preference for Micro and Small Enterprises in Government purchases" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Price Preference for Micro and Small Enterprises in Government purchases" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Price Preference for Micro and Small Enterprises in Government purchases" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Price Preference for Micro and Small Enterprises in Government purchases" target="ApplicationMethod::On participation in the Tender" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Farmers Training" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Farmers Training" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Farmers Training" target="BenefitType::Grants" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Farmers Training" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Farmers Training" target="ApplicationMethod::The application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Farm Production System and micro enterprises - Sponsored By State Govt" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Farm Production System and micro enterprises - Sponsored By State Govt" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Farm Production System and micro enterprises - Sponsored By State Govt" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Farm Production System and micro enterprises - Sponsored By State Govt" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Farm Production System and micro enterprises - Sponsored By State Govt" target="ApplicationMethod::1)Chairman / District Collector,&#10;2)Project Officer /Joint Director of Agriculture ,&#10;DWDA, (PIA) at District level.&#10;1)Chief Executive Officer,&#10;State Level Nodal Agency,&#10;Chennai-32 (at State level)" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Waiver of Earnest Money Deposit for participation in Tenders" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Waiver of Earnest Money Deposit for participation in Tenders" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Waiver of Earnest Money Deposit for participation in Tenders" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Waiver of Earnest Money Deposit for participation in Tenders" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Waiver of Earnest Money Deposit for participation in Tenders" target="ApplicationMethod::On participation in the Tender" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Distribution of Certified  Seeds of maize" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Certified  Seeds of maize" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Distribution of Certified  Seeds of maize" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Distribution of Certified  Seeds of maize" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Certified  Seeds of maize" target="ApplicationMethod::The application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the cost of Patent Registration in India or abroad" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the cost of Patent Registration in India or abroad" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the cost of Patent Registration in India or abroad" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the cost of Patent Registration in India or abroad" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the cost of Patent Registration in India or abroad" target="ApplicationMethod::Within 6 months from the date of receipt of Patent Registration" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Organizing Block Demonstration" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Organizing Block Demonstration" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Organizing Block Demonstration" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Organizing Block Demonstration" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Organizing Block Demonstration" target="ApplicationMethod::The Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Reservation for Micro Enterprises in TANSIDCO Industrial Estates" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Reservation for Micro Enterprises in TANSIDCO Industrial Estates" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Reservation for Micro Enterprises in TANSIDCO Industrial Estates" target="BenefitType::Incentives" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Reservation for Micro Enterprises in TANSIDCO Industrial Estates" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Reservation for Micro Enterprises in TANSIDCO Industrial Estates" target="ApplicationMethod::To apply to SIDCO" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Reimbursement of hall rent for conducting exhibition by MSME Association" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Reimbursement of hall rent for conducting exhibition by MSME Association" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Reimbursement of hall rent for conducting exhibition by MSME Association" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Reimbursement of hall rent for conducting exhibition by MSME Association" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Reimbursement of hall rent for conducting exhibition by MSME Association" target="ApplicationMethod::Not applicable" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)" target="BenefitType::Incentives" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained under NEF scheme of TIIC (Renamed as Micro/Small Enterprises Funding Scheme)" target="ApplicationMethod::On quarterly basis through the respective financial institutions." id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Low Tension power tariff subsidy" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Low Tension power tariff subsidy" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Low Tension power tariff subsidy" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Low Tension power tariff subsidy" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Low Tension power tariff subsidy" target="ApplicationMethod::1.For issue of&#10;Eligibility Certificate&#10;(EC)&#10;Within three months&#10;from the date of&#10;commencement of&#10;production or date of&#10;power connection,&#10;whichever is later.&#10;2. For submission of&#10;subsidy claims&#10;The first claim should&#10;be preferred within 30&#10;days from the date of&#10;issue of EC.&#10;Subsequent claims&#10;should be submitted&#10;once in six months i.e.&#10;the bills raised by&#10;TNEB from January to&#10;June should be&#10;preferred before August&#10;31st of the year and&#10;from July to December&#10;before 28th of February&#10;of the succeeding year" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the cost of Trade Mark Registration in India or abroad" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the cost of Trade Mark Registration in India or abroad" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the cost of Trade Mark Registration in India or abroad" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the cost of Trade Mark Registration in India or abroad" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Subsidy on the cost of Trade Mark Registration in India or abroad" target="ApplicationMethod::Within 6 months from the date of receipt of Trade Mark registration" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Farmers Interest Group  (FIG)" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Farmers Interest Group  (FIG)" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Farmers Interest Group  (FIG)" target="BenefitType::Grants" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Farmers Interest Group  (FIG)" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Farmers Interest Group  (FIG)" target="ApplicationMethod::The application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Pipes carrying water  from source to field" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Pipes carrying water  from source to field" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Pipes carrying water  from source to field" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Pipes carrying water  from source to field" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Pipes carrying water  from source to field" target="ApplicationMethod::The application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained for Technology upgradation / modernisation schemes" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained for Technology upgradation / modernisation schemes" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained for Technology upgradation / modernisation schemes" target="BenefitType::Incentives" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained for Technology upgradation / modernisation schemes" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained for Technology upgradation / modernisation schemes" target="ApplicationMethod::On quarterly basis through the respective financial institutions." id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Livelihood activities for asset less persons - Sponsored By State Govt" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Livelihood activities for asset less persons - Sponsored By State Govt" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Livelihood activities for asset less persons - Sponsored By State Govt" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Livelihood activities for asset less persons - Sponsored By State Govt" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Livelihood activities for asset less persons - Sponsored By State Govt" target="ApplicationMethod::1)Chairman / District Collector,&#10;2)Project Officer /Joint Director of Agriculture ,&#10;DWDA, (PIA) at District level.&#10;1)Chief Executive Officer,&#10;State Level Nodal Agency,&#10;Chennai-32 (at State level)" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Skill Development Training Schemes and Skill Upgradation Training Schemes" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Skill Development Training Schemes and Skill Upgradation Training Schemes" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Skill Development Training Schemes and Skill Upgradation Training Schemes" target="BenefitType::Incentives" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Skill Development Training Schemes and Skill Upgradation Training Schemes" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Skill Development Training Schemes and Skill Upgradation Training Schemes" target="ApplicationMethod::Not applicable." id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Micro Nutrient spray" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Micro Nutrient spray" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Micro Nutrient spray" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Micro Nutrient spray" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Micro Nutrient spray" target="ApplicationMethod::The Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained under Credit Guarantee Fund Trust Scheme" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained under Credit Guarantee Fund Trust Scheme" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained under Credit Guarantee Fund Trust Scheme" target="BenefitType::Incentives" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained under Credit Guarantee Fund Trust Scheme" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained under Credit Guarantee Fund Trust Scheme" target="ApplicationMethod::On quarterly basis through the respective financial institutions." id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Visit of Contract Farming  farmers to the Research  Stations in Karnataka" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Visit of Contract Farming  farmers to the Research  Stations in Karnataka" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Visit of Contract Farming  farmers to the Research  Stations in Karnataka" target="BenefitType::Grants" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Visit of Contract Farming  farmers to the Research  Stations in Karnataka" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Visit of Contract Farming  farmers to the Research  Stations in Karnataka" target="ApplicationMethod::The application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained for ISO Certification/R&amp;D under NSICTANSIDCO Consortium" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained for ISO Certification/R&amp;D under NSICTANSIDCO Consortium" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained for ISO Certification/R&amp;D under NSICTANSIDCO Consortium" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained for ISO Certification/R&amp;D under NSICTANSIDCO Consortium" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Term loan obtained for ISO Certification/R&amp;D under NSICTANSIDCO Consortium" target="ApplicationMethod::On quarterly basis through the respective financial institutions." id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Integrated Pest  Management Demonstration  cum Training" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Integrated Pest  Management Demonstration  cum Training" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Integrated Pest  Management Demonstration  cum Training" target="BenefitType::Grants" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Integrated Pest  Management Demonstration  cum Training" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Integrated Pest  Management Demonstration  cum Training" target="ApplicationMethod::The application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Stamp duty exemption on mortgaged and pledged documents" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Stamp duty exemption on mortgaged and pledged documents" target="Beneficiary::Manufacturers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Stamp duty exemption on mortgaged and pledged documents" target="BenefitType::Incentives" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Stamp duty exemption on mortgaged and pledged documents" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Stamp duty exemption on mortgaged and pledged documents" target="ApplicationMethod::1.For issue of Eligibility Certificate (EC)&#10;Within three months from the date of commencement of production or date of power connection,whichever is later.&#10;2. For submission of subsidy claims&#10;The first claim should be preferred within 30 days from the date of issue of EC.Subsequent claims should be submitted&#10;once in six months i.e. the bills raised by Tamil Nadu Generation and Distribution Corporation Limited from January to June should be preferred before August 31st of the year and from July to December  before 28th of February of the succeeding year." id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Distribution of Gypsum - Oil Seeds" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Gypsum - Oil Seeds" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Distribution of Gypsum - Oil Seeds" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Distribution of Gypsum - Oil Seeds" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Distribution of Gypsum - Oil Seeds" target="ApplicationMethod::Application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+    <edge source="Scheme::Production of Certified  Seeds of Maize" target="Department::Agriculture - Farmers Welfare Department" id="0">
+      <data key="d7">managed_by</data>
+    </edge>
+    <edge source="Scheme::Production of Certified  Seeds of Maize" target="Beneficiary::Farmers" id="0">
+      <data key="d7">available_to</data>
+    </edge>
+    <edge source="Scheme::Production of Certified  Seeds of Maize" target="BenefitType::Subsidy" id="0">
+      <data key="d7">provides</data>
+    </edge>
+    <edge source="Scheme::Production of Certified  Seeds of Maize" target="Sponsor::State" id="0">
+      <data key="d7">sponsored_by</data>
+    </edge>
+    <edge source="Scheme::Production of Certified  Seeds of Maize" target="ApplicationMethod::The application is to be submitted to:&#10;Assistant Agricultural officer at the Village Level&#10;Agricultural Officer / Deputy Agricultural Officer at the Block Level&#10;The Assistant Director of Agriculture at the Block Level&#10;The Joint Director of Agriculture at the District Level" id="0">
+      <data key="d7">application_process</data>
+    </edge>
+  </graph>
+</graphml>

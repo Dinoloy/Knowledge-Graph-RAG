@@ -1,0 +1,20 @@
+{
+  "scheme_records": 54,
+  "graph_nodes": 82,
+  "graph_edges": 268,
+  "node_types": {
+    "Scheme": 54,
+    "Department": 1,
+    "Beneficiary": 2,
+    "BenefitType": 3,
+    "Sponsor": 1,
+    "ApplicationMethod": 21
+  },
+  "relationship_types": {
+    "managed_by": 54,
+    "available_to": 54,
+    "provides": 54,
+    "sponsored_by": 54,
+    "application_process": 52
+  }
+}
